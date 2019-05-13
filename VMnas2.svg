@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 272 180" style="enable-background:new 0 0 272 180;" xml:space="preserve">
+<circle id="alarmGroup" style="display:none;fill:#57C1EF;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_0" style="display:none;fill:#4CAF50;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_1" style="display:none;fill:#FFEB3B;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_2" style="fill:#FBC02D;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_3" style="display:none;fill:#F44336;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_MAINT" style="display:none;fill:#9E9E9E;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_COMM" style="display:none;fill:#E91E63;" cx="135" cy="90" r="79"/>
+<circle id="alarmLevel_TRANSPORT" style="display:none;fill:#FF9800;" cx="135" cy="90" r="79"/>
+<rect style="fill:#2196F3;" width="272" height="180"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="94.0418" y1="40.0418" x2="317.8446" y2="263.8446">
+	<stop  offset="0" style="stop-color:#263238;stop-opacity:0.2"/>
+	<stop  offset="1" style="stop-color:#263238;stop-opacity:0"/>
+</linearGradient>
+<path style="fill:url(#SVGID_1_);" d="M91.835,45.443c0,0-16.835,3.036-12.835,28.796v58.925L118,180h154v-78l-81.872-59.659
+	c0,0-3.128-9.341-15.128-9.341h-66C109,33,95.671,32.886,91.835,45.443z"/>
+<g id="dashed_1_"
+   class="blinking">
+    
+    <style>
+       .blinking {
+  animation: blinking 1s ;
+}
+@keyframes blinking {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  50.1% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}></style>
+    
+    
+	<path class="path" stroke="#FFFFFF" stroke-dasharray="7" fill="none"  
+          d="M161.501,145.696H97.36
+		c-9.972,0-18.056-8.084-18.056-18.056V63.499c0-9.972,8.084-18.056,18.056-18.056h64.141c9.972,0,18.056,8.084,18.056,18.056
+		v64.141C179.557,137.612,171.473,145.696,161.501,145.696z"/>
+     <style>
+        .path {
+            animation: dash 2s linear
+            }
+        @keyframes dash {
+            to{
+            stroke-dashoffset:125;
+            }
+            }
+        
+        </style>
+</g>
+<path id="rounded-square_1_" style="fill:#FFFFFF;" d="M174.869,133.165h-65.815c-9.51,0-17.219-7.709-17.219-17.219V50.131
+	c0-9.51,7.709-17.219,17.219-17.219h65.815c9.51,0,17.219,7.709,17.219,17.219v65.815
+	C192.089,125.455,184.379,133.165,174.869,133.165z"/>
+<path style="opacity:0.2;fill:#263238;" d="M174.621,131.772h-65.319c-9.647,0-17.467-7.82-17.467-17.467v1.392
+	c0,9.647,7.82,17.467,17.467,17.467h65.319c9.647,0,17.467-7.82,17.467-17.467v-1.392
+	C192.089,123.952,184.268,131.772,174.621,131.772z"/>
+<path style="opacity:0.2;fill:#263238;" d="M174.621,32.911h-65.319c-9.647,0-17.467,7.82-17.467,17.467v1.392
+	c0-9.647,7.82-17.467,17.467-17.467h65.319c9.647,0,17.467,7.82,17.467,17.467v-1.392C192.089,40.732,184.268,32.911,174.621,32.911
+	z"/>
+<path id="pctop_4_" d="M168.645,96.342H116.4c-0.799,0-1.447-0.648-1.447-1.447V63.603c0-0.799,0.648-1.447,1.447-1.447h52.245
+	c0.799,0,1.447,0.648,1.447,1.447v31.292C170.092,95.694,169.444,96.342,168.645,96.342z"/>
+<path style="opacity:0.2;fill:#FFFFFF;" d="M168.077,62.155h-51.109c-1.113,0-2.015,0.902-2.015,2.015v1.392
+	c0-1.113,0.902-2.015,2.015-2.015h51.109c1.113,0,2.015,0.902,2.015,2.015v-1.392C170.092,63.058,169.19,62.155,168.077,62.155z"/>
+<path id="pcbottom_2_" d="M165.698,105.092h-46.351c-0.6,0-1.086-0.486-1.086-1.086v-3.271c0-0.6,0.486-1.086,1.086-1.086h46.351
+	c0.6,0,1.086,0.486,1.086,1.086v3.271C166.783,104.606,166.297,105.092,165.698,105.092z"/>
+<path style="opacity:0.2;fill:#FFFFFF;" d="M165.272,103.7h-45.499c-0.835,0-1.512-0.677-1.512-1.512v1.392
+	c0,0.835,0.677,1.512,1.512,1.512h45.499c0.835,0,1.512-0.677,1.512-1.512v-1.392C166.783,103.023,166.107,103.7,165.272,103.7z"/>
+<path id="pctop_2_" style="fill:#FFFFFF;" d="M165.578,92.714h-46.112c-0.799,0-1.447-0.648-1.447-1.447V67.23
+	c0-0.799,0.648-1.447,1.447-1.447h46.112c0.799,0,1.447,0.648,1.447,1.447v24.036C167.025,92.066,166.377,92.714,165.578,92.714z"/>
+</svg>
